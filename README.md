@@ -2,8 +2,8 @@
 * tool
   * react native
   
-🗂️[Basis React Native](Basis React Native)
+🗂️[Basis React Native](BasisReactNative)
 
-📄 [Resistor Calculator PDF](react native Test/resistor_calculator.pdf)
+📄 [Resistor Calculator PDF](reactnativeTest/resistor_calculator.pdf)
 <br/>
 ![image 1](images/reactResistor.png)
